@@ -10,7 +10,7 @@
 ---
 I am Fr Jaison Paul Mulerikkal, a Professor in Information Technology .
 ```
-This is my Open Initative 
+This is my Open Initiative 
 ```
 - My research interests lie in high performance computing and cloud computing.
 - Service Oriented Architecture Middleware (ANU-SOAM)
