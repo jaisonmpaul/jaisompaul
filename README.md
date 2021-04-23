@@ -8,7 +8,7 @@
 ---
 ### Hi 👋
 ---
-I am Fr Jaison Paul Mulerikkal, a Professor Computer Science and Engineering .
+I am Fr Jaison Paul Mulerikkal, a Professor in Information Technology .
 ```
 This is my Open Initative 
 ```
