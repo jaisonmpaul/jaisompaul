@@ -1,7 +1,7 @@
 # Jaison Paul
 
 
-[![wordPress Badge](https://img.shields.io/badge/MyBlog-blue?style=flat-square&logo=Wordpress&logoColor=white&link=https://jaisonmpaul.github.io)](https://sajanrajtd.wordpress.com/)
+[![wordPress Badge](https://img.shields.io/badge/MyBlog-blue?style=flat-square&logo=Wordpress&logoColor=white&link=https://jaisonmpaul.github.io)](https://jaisonmpaul.github.io)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaisonmpaul/)](https://www.linkedin.com/in/jaisonmpaul/)
 [![Gmail Badge](https://img.shields.io/badge/-jaisonmpaul@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaisonmpaul@gmail.com)](jaisonmpaul@gmail.com)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCEJOxdR1ofpCNAbioWV_viA)](https://www.youtube.com/channel/UCEJOxdR1ofpCNAbioWV_viA)
