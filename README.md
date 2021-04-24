@@ -4,7 +4,6 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=hhttps://www.facebook.com/jaison.cmi)](https://www.facebook.com/jaison.cmi)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCEJOxdR1ofpCNAbioWV_viA)](https://www.youtube.com/channel/UCEJOxdR1ofpCNAbioWV_viA)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaisonmpaul/)](https://www.linkedin.com/in/jaisonmpaul/)
-
 ---
 ## Profile
 ---
@@ -15,7 +14,7 @@ Jaison Paul Mulerikkal is the Vice Principal of and a Professor in Information T
   - Service Oriented Architecture Middleware (ANU-SOAM)for scientific applications
   - Smart city technologies and intelligent transportation systems
 
-## Technical Skills    
+Technical Skills    
 - High-level programming skills in MPI, C, C++ and IBM Platform symphony suit. 
 - Comfortable with object oriented programming languages like Java. 
 - High research related skills like latex, plot, gnuplot, scripts, etc. 
