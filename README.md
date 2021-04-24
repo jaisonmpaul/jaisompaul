@@ -2,9 +2,9 @@
 
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=hhttps://www.facebook.com/jaison.cmi)](https://www.facebook.com/jaison.cmi)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaisonmpaul/)](https://www.linkedin.com/in/jaisonmpaul/)
-[![Gmail Badge](https://img.shields.io/badge/-jaisonmpaul@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaisonmpaul@gmail.com)](jaisonmpaul@gmail.com)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCEJOxdR1ofpCNAbioWV_viA)](https://www.youtube.com/channel/UCEJOxdR1ofpCNAbioWV_viA)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaisonmpaul/)](https://www.linkedin.com/in/jaisonmpaul/)
+
 ---
 ## Profile
 ---
